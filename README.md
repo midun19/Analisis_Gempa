@@ -4,3 +4,6 @@ Dataset diambil dari kaggle () yang berupa dataset kejadian gempa di indonesia b
 Untuk membagi wilayah Jawa Barat per Kabupaten menggunakan GeoPandas dengan data geoBoundaries-IDN-ADM2. Lalu model yang digunakan untuk clustering wilayahnya menggunakan KMeans.
 
 Setelah di analisis, wilayah yang paling banyak terjadi kasus gempa yaitu di Kab. Cianjur dengan jumlah kasus sekitar 580 kasus gempa, Kab. Sukabumi dengan jumlah kasus sekitar 230 kasus gempa
+
+Untuk Visualisasi Tableaunya dapat dilihat di 
+https://public.tableau.com/views/AnalisaGempaJabar2021-2025/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
